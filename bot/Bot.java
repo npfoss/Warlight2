@@ -8,6 +8,8 @@
  * @License MIT License (http://opensource.org/Licenses/MIT)
  */
 
+/////// DO NOT CHANGE //////////
+
 package bot;
 
 import java.util.ArrayList;
